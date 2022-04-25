@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "gauthtest",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
